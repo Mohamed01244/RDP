@@ -1,0 +1,15 @@
+[xfdesktop-version-4.10.3+-rcfile_format]
+4.10.3+=true
+
+[/config/Desktop/Chrome.desktop]
+row=3
+col=0
+
+[/]
+row=0
+col=0
+
+[/config]
+row=1
+col=0
+

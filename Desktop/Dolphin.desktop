@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Dolphin Anty
+Exec=/config/DolphinAnty/dolphin_anty --no-sandbox
+Icon=/config/DolphinAnty/dolphin_anty.png
+Terminal=false

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Google Chrome
+Exec=/usr/bin/google-chrome --no-sandbox
+Icon=google-chrome
+Terminal=false
